@@ -35,4 +35,23 @@
 - 🌱 Deepen my knowledge in **AI and Web Development**  
 - 💻 Start building real-world projects and contribute to open source  
 - 📈 Grow as a full-stack developer and explore new technologies
+### 💻 Tech Stack
 
+- **Cloud & Hosting**:  
+  ☁️ **Google Cloud** | 🚀 **Heroku** | 🛠️ **OpenStack**
+
+- **Databases**:  
+  🗄️ **Oracle** | 🗃️ **Microsoft SQL Server** | 🗂️ **MongoDB** | 🗂️ **MySQL** | 🧳 **Realm**
+
+- **Tools & Frameworks**:  
+  📊 **Anaconda** | 🅰️ **Angular** | ⚙️ **Angular.js** | ⚛️ **React** | 📱 **React Native**  
+  🔄 **Apache** | 🧰 **Git** | 🛠️ **GitLab CI** | 🔄 **GitHub Actions**
+
+- **Visualization & Analytics**:  
+  📊 **Pandas** | 🔢 **NumPy** | 📈 **Plotly**
+
+- **Design & Development Tools**:  
+  🎨 **Adobe** | 🖌️ **Canva** | 🔲 **Blender**  
+
+- **Embedded & Game Development**:  
+  🎮 **Arduino** | 🦸‍♂️ **Meta** | 🌍 **Unity** | 🎮 **Ubisoft** | 🎮 **Steam** | 🎮 **Epic Games**
